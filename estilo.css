@@ -1,11 +1,12 @@
 .list_fer{
     color: blue;
-    background: white;
-    border: 1px black;
+    background: black;
+    border: 3px red;
     border-style: solid;
     width: 500px%;
     text-align: left;
 }
+/*inseri este comentario no Css.*/
  .listtd ,td {
      text-align: center;
      border-style: solid;
